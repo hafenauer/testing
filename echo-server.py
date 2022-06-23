@@ -1,5 +1,4 @@
 # echo-server.py
-# https://realpython.com/python-sockets/
 
 import socket
 
